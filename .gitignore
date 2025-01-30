@@ -1,0 +1,15 @@
+# Ignore all files without an extension in the current directory
+*
+!*.*
+
+# Ignore binary files
+*.o
+*.out
+*.exe
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Ignore all executable files without an extension
+a.out
